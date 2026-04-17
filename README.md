@@ -84,5 +84,4 @@ The frontend should now be running at `http://localhost:5173/` (by default Vite 
 3. Reach the exit before the pathfinding ghosts catch you!
 4. Analyze your run and learn how the underlying pathfinding algorithms calculated the routes.
 
-## 📝 License
-This project is licensed under the ISC License.
+
